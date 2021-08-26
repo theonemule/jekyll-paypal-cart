@@ -85,3 +85,6 @@ This two files, located in the `assets` folder contain the code for maintaining 
 
 The `index.md` in this reposistory has a sample for how to generate a single page that has all of your items on the page. 
 
+## A caveat...
+
+Working with client-side carts has a rick of tampering, because anyone can hack the code in the browser, change the prices to give themselves a discount, and then pay for the product. You'd be none the wiser unless you check to ensure that the price paid is the price you sell the item for. If you are doing any automation downstream of the sale, such as digital goods, ensure that the automation checks the price.
