@@ -74,9 +74,8 @@ When the site is created, the site generates a javascript file called `catalog.j
 `checkout.md` provides a permalink at `/checkout` to enable the checkout experience. `checkout.md` contains a reference to the PayPal JavaScipt SDK
 
 `<script src="https://www.paypal.com/sdk/js?client-id=INSERT_PAYPAL_ID_HERE"></script>`
-````
 
-, so this will will need to be updated with your PayPal application ID. You can create and retrive this from the PayPal devoloper's portal. See instructions here on how to obtain this.
+**This will will need to be updated with your PayPal application ID. You can create and retrive this from the PayPal devoloper's portal. See instructions here on how to obtain this.**
 
 #### cart.js and checkout.js
 
