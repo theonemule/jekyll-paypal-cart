@@ -1,8 +1,8 @@
-# An eCommerce Site Using Jekyll and PayPal.
+# An eCommerce Site Using Jekyll and PayPal
 
 This little project grew out of a desire to create a simple eCommerce website to [sell my books online](https://www.blaize.net). I have, for the longest time, sold through Amazon. Amazon is a great platform, but I wanted to make the shopping experience more personal to better connect with my readers by selling books directly from my site.  My goals for this were simple: a simple eCommerce platform with PayPal as a payment gateway. I generalized it here so perhaps others could use it for their projects.
 
-#### [See it in action!]()
+#### [See it in action!](http://cartdemo.blaize.net)
 
 If you've never used Jekyll, it's elegantly simple and easy to use. If you want to develop locally, install Jekyll following the instrucitons here, then clone this repo, run `bundle update` to install dependencies, and then run `jekyll serve` to run the local development server.
 

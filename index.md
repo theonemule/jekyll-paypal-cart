@@ -4,6 +4,7 @@
 layout: default
 ---
 
+#### Welcome to the demo page for the an eCommerce site using Jekyll and PayPal. This project is [available on GitHub](https://github.com/theonemule/jekyll-paypal-cart)!
 
 
 {% assign catalog_items = site.pages |  where_exp:"item", "item.cart_itemid" %}
