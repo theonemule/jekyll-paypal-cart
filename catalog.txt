@@ -1,0 +1,18 @@
+---
+permalink: /assets/catalog.js
+---
+{% assign catalog_items = site.pages |  where_exp:"item", "item.cart_itemid" %}
+catalog = {
+{%- for page in catalog_items -%}
+	{%- if page.cart_itemid-%}
+		{{ page.cart_itemid }}: {
+			name: "{{ page.cart_name }}",
+			description: "{{ page.cart_description }}",
+			price: {{ page.cart_price }}
+		}		
+		{%- if page.cart_itemid != catalog_items.last.cart_itemid -%}
+		,
+		{%- endif -%} 
+	{%- endif -%}
+{%- endfor %}
+}
