@@ -6,6 +6,7 @@ This little project grew out of a desire to create a simple eCommerce website to
 
 If you've never used Jekyll, it's elegantly simple and easy to use. If you want to develop locally, install Jekyll following the instrucitons here, then clone this repo, run `bundle update` to install dependencies, and then run `jekyll serve` to run the local development server.
 
+
 ## Product Pages
 
 The eCommerce site here leverages some of the built-in features of Jekyll. The intent here was to keep it simple. Each product has its own page with a custom set of headers:
