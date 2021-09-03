@@ -6,6 +6,9 @@ cart_name: "Development Coffee"
 cart_description: "Fuel your coding addiction!"
 cart_price: 9.99
 cart_image: "assets/cappuccino-756490_1280.jpg"
+tags: 
+  - coffee
+  - life
 ---
 ## Developer: (n) A creature that turns caffine in to code.
 

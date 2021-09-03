@@ -6,6 +6,10 @@ cart_name: "Development Computer"
 cart_description: "A great computer for software development!"
 cart_price: 899
 cart_image: "assets/apple-1282241_1280.jpg"
+tags: 
+  - computer
+  - gadget
+  - development
 ---
 ## A Great Computer for Software Development
 

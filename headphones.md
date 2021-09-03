@@ -6,6 +6,9 @@ cart_name: "Development Headphones"
 cart_description: "Drown out distractions!"
 cart_price: 79
 cart_image: "assets/headphones-3683983_1280.jpg"
+tags: 
+  - headphones
+  - gadget
 ---
 ## Less_Distractions == Better_Code
 

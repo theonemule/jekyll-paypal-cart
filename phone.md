@@ -6,6 +6,11 @@ cart_name: "Development Phone"
 cart_description: "Everything you need to build mobile apps!"
 cart_price: 499
 cart_image: "assets/iphone-410324_1280.jpg"
+tags: 
+  - phone
+  - gadget
+  - development
+
 ---
 ## Mobile App Development Essential
 
