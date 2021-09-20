@@ -4,7 +4,7 @@ This little project grew out of a desire to create a simple eCommerce website to
 
 #### [See it in action!](http://cartdemo.blaize.net)
 
-If you've never used Jekyll, it's elegantly simple and easy to use. If you want to develop locally, install Jekyll following the instructions [Here](https://developer.paypal.com/docs/business/checkout/set-up-standard-payments/integrate), then clone this repo, run `bundle update` to install dependencies, and then run `jekyll serve` to run the local development server.
+If you've never used Jekyll, it's elegantly simple and easy to use. If you want to develop locally, install Jekyll following the instructions [Here](https://jekyllrb.com/docs/installation/), then clone this repo, run `bundle update` to install dependencies, and then run `jekyll serve` to run the local development server.
 
 
 ## Product Pages
@@ -76,7 +76,7 @@ When the site is created, the site generates a javascript file called `catalog.j
 
 `<script src="https://www.paypal.com/sdk/js?client-id=INSERT_PAYPAL_CLIENT_ID_HERE"></script>`
 
-**This will will need to be updated with your PayPal application ID. You can create and retrieve this from the PayPal developer's portal. See instructions here on how to obtain this.**
+**This will will need to be updated with your PayPal application ID. You can create and retrieve this from the PayPal developer's portal. See instructions [Here](https://developer.paypal.com/docs/business/get-started/) on how to obtain this.**
 
 #### cart.js and checkout.js
 
