@@ -18,7 +18,7 @@ tags:
 
 Mobile App Development requires a phone to build and test apps. Fortunately, you don't have to break the bank!
 
-* Fast, Multicore CPU
+* Fast, Multi-core CPU
 * Large, bright screen
 * Crisp sound
 

@@ -17,8 +17,8 @@ tags:
 
 If you're looking to break into software development, look no further than than the Devputer, a system built for software development.
 
-* Fast, Multicore CPU
-* Large, Solidstate Drive
+* Fast, Multi-core CPU
+* Large, Solid-state Drive
 * Fast, 3D GPU
 * Lots and lots of RAM
 
