@@ -7,11 +7,14 @@ function drawCart(){
 	if (Object.keys(cart).length == 0){
 		cartHtml = "<h2>Cart is empty</h2>";
 	}else{
+		var total = 0 ;
 		cartHtml = `<table><tr><td>Item</td><td>Description</td><td>Qty.</td><td>Price</td></tr>`;
 		for (const item in cart) {
 			cartHtml += `<tr><td>${catalog[item].name}</td><td>${catalog[item].description}</td><td>${cart[item]}</td>
 			<td>${(catalog[item].price * cart[item]).toFixed(2)}</td></tr>`;
+			total += catalog[item].price * cart[item];
 		}
+		cartHtml += `<tr><td>TOTAL</td><td></td><td></td><td>${(total).toFixed(2)}</td></tr>`;
 		cartHtml += `</table>`;
 		
 	}

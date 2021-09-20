@@ -14,7 +14,7 @@ tags:
 
 ![{{page.cart_description}}]({{page.cart_image}})
 
-No developer likes to be interuptted when they are deep in thought. Now, you can tune out the world and focus on what really matters!
+No developer likes to be interrupted when they are deep in thought. Now, you can tune out the world and focus on what really matters!
 
 * Ergonomic design
 * Crisp sound

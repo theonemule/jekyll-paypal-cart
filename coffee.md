@@ -10,14 +10,14 @@ tags:
   - coffee
   - life
 ---
-## Developer: (n) A creature that turns caffine in to code.
+## Developer: (n) A creature that turns caffeine in to code.
 
 ![{{page.cart_description}}]({{page.cart_image}})
 
 Coffee is one of life's essentials, especially for developers!
 
 * Strong, robust flavor
-* Extra-caffinated for an extra boost
+* Extra-caffeinated for an extra boost
 * Great price! Better than a coffee shop.
 * 16 oz. bag
 
